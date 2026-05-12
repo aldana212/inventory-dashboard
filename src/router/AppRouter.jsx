@@ -6,7 +6,7 @@ import MovementsPage from "../features/movements/list/MovementsPage";
 import ProductsPage from "../features/products/list/ProductsPage";
 import ProductDetailPage from "../features/products/detail/ProductDetailPage";
 import ProductForm from "../features/products/form/ProductForm";
-import MovementsForm from "../features/movements/form/movementsForm";
+import MovementsForm from "../features/movements/form/MovementsForm";
 import CategoryPage from "../features/categories/list/CategoryPage";
 import ProtectedRoute from "./ProtectedRoute";
 import UsersPage from "../features/users/list/UsersPage";

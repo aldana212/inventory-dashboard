@@ -53,7 +53,7 @@ body {
 /* Track (el área en la que se desplaza el scroll) */
 ::-webkit-scrollbar-track {
   height: 1px;
-  background: #fff !; /* color de fondo de la pista */
+  background: #fff; /* color de fondo de la pista */
 }
 
 /* Thumb (el agarre en la barra de desplazamiento) */
