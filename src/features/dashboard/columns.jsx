@@ -1,4 +1,4 @@
-import ProductIcon from "../../assets/icons/productIcon";
+import ProductIcon from "../../assets/icons/ProductIcon";
 import StatusChip from "../../shared/components/StatusChip/StatusChip";
 import { getInitialsFromFullName } from "../../utils/getInitialsFromFullName";
 

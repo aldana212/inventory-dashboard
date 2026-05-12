@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { NavLink, useNavigate } from "react-router";
 import DashboardIcon from "../../../assets/icons/DashboardIcon";
-import ProductIcon from "../../../assets/icons/productIcon";
-import MovementsIcon from "../../../assets/icons/movementsIcon";
+import ProductIcon from "../../../assets/icons/ProductIcon";
+import MovementsIcon from "../../../assets/icons/MovementsIcon";
 import AlertIcon from "../../../assets/icons/AlertIcon";
 import SuppliersIcon from "../../../assets/icons/suppliersIcon";
 import CategoryIcon from "../../../assets/icons/CategoryIcon";

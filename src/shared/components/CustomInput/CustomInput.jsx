@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ProductIcon from "../../../assets/icons/productIcon";
+import ProductIcon from "../../../assets/icons/ProductIcon";
 import EyeOpenIcon from "../../../assets/icons/EyeOpenIcon";
 import EyeCloseIcon from "../../../assets/icons/EyeCloseIcon";
 

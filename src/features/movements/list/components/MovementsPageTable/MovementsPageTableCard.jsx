@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { getInitialsFromFullName } from "../../../../../utils/getInitialsFromFullName";
 import StatusChip from "../../../../../shared/components/StatusChip/StatusChip";
-import ProductIcon from "../../../../../assets/icons/productIcon";
+import ProductIcon from "../../../../../assets/icons/ProductIcon";
 
 const MovementsPageTableCard = ({ data, index }) => {
   const [show, setShow] = useState(false);

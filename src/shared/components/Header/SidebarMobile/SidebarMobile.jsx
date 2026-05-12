@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
-import ProductIcon from "../../../../assets/icons/productIcon";
+import ProductIcon from "../../../../assets/icons/ProductIcon";
 import CloseIcon from "../../../../assets/icons/CloseIcon";
 import DashboardIcon from "../../../../assets/icons/DashboardIcon";
-import MovementsIcon from "../../../../assets/icons/movementsIcon";
+import MovementsIcon from "../../../../assets/icons/MovementsIcon";
 import UsersIcon from "../../../../assets/icons/UsersIcon";
 import CategoryIcon from "../../../../assets/icons/CategoryIcon";
 import SettingIcon from "../../../../assets/icons/SettingIcon";

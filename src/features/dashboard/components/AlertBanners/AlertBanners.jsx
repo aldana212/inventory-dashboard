@@ -1,6 +1,6 @@
 import React from "react";
 import AlertIcon from "../../../../assets/icons/AlertIcon";
-import ProductIcon from "../../../../assets/icons/productIcon";
+import ProductIcon from "../../../../assets/icons/ProductIcon";
 
 const AlertBanners = () => {
   return (

@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
-import ProductIcon from "../../../assets/icons/productIcon";
-import MovementsIcon from "../../../assets/icons/movementsIcon";
+import ProductIcon from "../../../assets/icons/ProductIcon";
+import MovementsIcon from "../../../assets/icons/MovementsIcon";
 import UsersIcon from "../../../assets/icons/UsersIcon";
 import AddIcon from "../../../assets/icons/AddIcon";
 import CloseIcon from "../../../assets/icons/CloseIcon";

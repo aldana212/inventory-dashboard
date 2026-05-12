@@ -1,6 +1,6 @@
 import DeleteIcon from "../../../assets/icons/DeleteIcon";
 import EditIcon from "../../../assets/icons/EditIcon";
-import ProductIcon from "../../../assets/icons/productIcon";
+import ProductIcon from "../../../assets/icons/ProductIcon";
 import StatusChip from "../../../shared/components/StatusChip/StatusChip";
 import { formatName } from "../../../utils/formatName";
 import { getInitialsFromFullName } from "../../../utils/getInitialsFromFullName";

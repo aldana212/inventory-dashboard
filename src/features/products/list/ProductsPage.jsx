@@ -6,7 +6,7 @@ import { useNavigate } from "react-router";
 import MetricCard from "../../../shared/components/MetricCard/MetricCard";
 import WalletIcon from "../../../assets/icons/WalletIcon";
 import AlertIcon from "../../../assets/icons/AlertIcon";
-import ProductIcon from "../../../assets/icons/productIcon";
+import ProductIcon from "../../../assets/icons/ProductIcon";
 import { useStatsProducts } from "../queries/useStatsProducts";
 import { formatPrice } from "../../../utils/formatPrice";
 import DisabledIcon from "../../../assets/icons/DisabledIcon";

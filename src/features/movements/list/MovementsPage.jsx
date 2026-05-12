@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import AddIcon from "../../../assets/icons/AddIcon";
 import MetricCard from "../../../shared/components/MetricCard/MetricCard";
 import WalletIcon from "../../../assets/icons/WalletIcon";
-import ProductIcon from "../../../assets/icons/productIcon";
+import ProductIcon from "../../../assets/icons/ProductIcon";
 import AlertIcon from "../../../assets/icons/AlertIcon";
 import DataTable from "../../../shared/components/DataView/DataTable/DataTable";
 import Filters from "./components/Filters/Filters";

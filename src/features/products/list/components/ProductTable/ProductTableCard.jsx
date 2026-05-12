@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import ProductIcon from "../../../../../assets/icons/productIcon";
+import ProductIcon from "../../../../../assets/icons/ProductIcon";
 import ActionsCell from "../../../../../shared/components/DataView/DataTable/ActionsCell";
 import { formatPrice } from "../../../../../utils/formatPrice";
 

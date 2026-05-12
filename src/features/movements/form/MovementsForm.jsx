@@ -4,7 +4,7 @@ import Breadcrumb from "../../../shared/components/Breadcrumb/Breadcrumb";
 import { Controller, useForm } from "react-hook-form";
 import CustomSelect from "../../../shared/components/CustomSelect/CustomSelect";
 import SuppliersIcon from "../../../assets/icons/suppliersIcon";
-import ProductIcon from "../../../assets/icons/productIcon";
+import ProductIcon from "../../../assets/icons/ProductIcon";
 import CustomInput from "../../../shared/components/CustomInput/CustomInput";
 import AddIcon from "../../../assets/icons/AddIcon";
 import InfoCircleIcon from "../../../assets/icons/InfoCircleIcon";

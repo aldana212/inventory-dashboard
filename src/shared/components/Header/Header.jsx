@@ -5,7 +5,7 @@ import CustomInput from "../CustomInput/CustomInput";
 import SearchIcon from "../../../assets/icons/SearchIcon";
 import { useAuthStore } from "../../../features/auth/store/authStore";
 import { getInitialsFromFullName } from "../../../utils/getInitialsFromFullName";
-import ProductIcon from "../../../assets/icons/productIcon";
+import ProductIcon from "../../../assets/icons/ProductIcon";
 import SidebarMobile from "./SidebarMobile/SidebarMobile";
 import MenuAltIcon from "../../../assets/icons/MenuAltIcon";
 {
