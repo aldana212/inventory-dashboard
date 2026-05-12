@@ -4,7 +4,7 @@ import DashboardIcon from "../../../assets/icons/DashboardIcon";
 import ProductIcon from "../../../assets/icons/ProductIcon";
 import MovementsIcon from "../../../assets/icons/MovementsIcon";
 import AlertIcon from "../../../assets/icons/AlertIcon";
-import SuppliersIcon from "../../../assets/icons/suppliersIcon";
+import SuppliersIcon from "../../../assets/icons/SuppliersIcon";
 import CategoryIcon from "../../../assets/icons/CategoryIcon";
 import LogoutIcon from "../../../assets/icons/LogoutIcon";
 import AddIcon from "../../../assets/icons/AddIcon";

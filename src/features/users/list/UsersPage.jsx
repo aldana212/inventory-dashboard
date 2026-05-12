@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import MetricCard from "../../../shared/components/MetricCard/MetricCard";
-import SuppliersIcon from "../../../assets/icons/suppliersIcon";
+import SuppliersIcon from "../../../assets/icons/SuppliersIcon";
 import CheckBadgeIcon from "../../../assets/icons/CheckBadgeIcon";
 import TimerIcon from "../../../assets/icons/TimerIcon";
 import AddIcon from "../../../assets/icons/AddIcon";

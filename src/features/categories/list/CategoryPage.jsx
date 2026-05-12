@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import AddIcon from "../../../assets/icons/AddIcon";
 import MetricCard from "../../../shared/components/MetricCard/MetricCard";
-import SuppliersIcon from "../../../assets/icons/suppliersIcon";
+import SuppliersIcon from "../../../assets/icons/SuppliersIcon";
 import CategoryIcon from "../../../assets/icons/CategoryIcon";
 import DataTable from "../../../shared/components/DataView/DataTable/DataTable";
 import { getColumns } from "./columns";

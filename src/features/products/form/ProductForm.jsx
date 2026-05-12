@@ -5,7 +5,7 @@ import EditIcon from "../../../assets/icons/EditIcon";
 import Breadcrumb from "../../../shared/components/Breadcrumb/Breadcrumb";
 import CustomInput from "../../../shared/components/CustomInput/CustomInput";
 import CustomSelect from "../../../shared/components/CustomSelect/CustomSelect";
-import SuppliersIcon from "../../../assets/icons/suppliersIcon";
+import SuppliersIcon from "../../../assets/icons/SuppliersIcon";
 import CategoryIcon from "../../../assets/icons/CategoryIcon";
 import BulbIcon from "../../../assets/icons/BulbIcon";
 import PhotoUploadIcon from "../../../assets/icons/PhotoUploadIcon";
