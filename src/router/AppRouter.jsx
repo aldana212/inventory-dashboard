@@ -13,7 +13,7 @@ import UsersPage from "../features/users/list/UsersPage";
 import Auth from "../features/auth/pages/Auth";
 import ChangeTemporaryPasswordPage from "../features/auth/pages/ChangeTemporaryPasswordPage";
 import RequireRole from "./RequireRole";
-import SettingsPage from "../features/settings/settingsPage";
+import SettingsPage from "../features/settings/SettingsPage";
 
 const AppRouter = () => {
   return (
