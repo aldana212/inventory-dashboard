@@ -1,5 +1,5 @@
 /* eslint-disable no-useless-catch */
-import AxiosClientRepository from "../../../shared/Http/AxiosHttp";
+import AxiosClientRepository from "../../../config/AxiosHttp";
 
 class servicesSetting extends AxiosClientRepository {
   constructor() {

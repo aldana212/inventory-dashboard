@@ -1,15 +1,11 @@
 import axios from "axios";
+import { env } from "./env";
 
 export class AxiosClientRepository {
   constructor() {
     this.instance = axios.create({
-      // baseURL: "https://inventory-dashboard-backend-v7le.onrender.com/api",
-      // baseURL: "https://struct-trivia-concluded-legislative.trycloudflare.com/api",
-      baseURL: "http://localhost:3000/api",
+      baseURL: env.API_URL,
       timeout: 10000,
-      // headers: {
-      //   "Content-Type": "application/json",
-      // },
     });
 
     this._initializeRequestInterceptor();
@@ -38,7 +34,6 @@ export class AxiosClientRepository {
           const message = error.response.data?.message || "Server error";
 
           const status = error.response.status;
-          
 
           // 🔥 devuelves un error limpio
           return Promise.reject({

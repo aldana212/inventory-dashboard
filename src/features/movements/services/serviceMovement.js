@@ -1,4 +1,4 @@
-import AxiosClientRepository from "../../../shared/Http/AxiosHttp";
+import AxiosClientRepository from "../../../config/AxiosHttp";
 
 class serviceMovement extends AxiosClientRepository {
   constructor() {
