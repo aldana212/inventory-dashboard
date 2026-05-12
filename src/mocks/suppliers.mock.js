@@ -1,0 +1,42 @@
+export const suppliersMock = [
+  {
+    id: "prov-001",
+    name: "Tech Supplies SAS",
+    phone: "3001234567",
+    email: "contacto@techsupplies.com",
+    address: "Calle 10 #20-30, Bogotá",
+    status: "active",
+  },
+  {
+    id: "prov-002",
+    name: "Moda Global",
+    phone: "3109876543",
+    email: "ventas@modaglobal.com",
+    address: "Carrera 15 #45-12, Medellín",
+    status: "inactive",
+  },
+  {
+    id: "prov-003",
+    name: "Distribuidora Alimentos SA",
+    phone: "3204567890",
+    email: "info@alimentos.com",
+    address: "Calle 8 #12-50, Cali",
+    status: "under_review",
+  },
+  {
+    id: "prov-004",
+    name: "Hogar y Estilo",
+    phone: "3012223344",
+    email: "contacto@hogaryestilo.com",
+    address: "Av 30 #55-20, Barranquilla",
+    status: "active",
+  },
+  {
+    id: "prov-005",
+    name: "Herramientas Pro SAS",
+    phone: "3156667788",
+    email: "ventas@herramientaspro.com",
+    address: "Calle 50 #18-40, Bogotá",
+    status: "inactive",
+  },
+];

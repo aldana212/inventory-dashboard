@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@keyframes scaleY {
+  0%,
+  100% {
+    transform: scaleY(1);
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+  20% {
+    transform: scaleY(1.5);
+    background-color: #ffffff;
+  }
+  40% {
+    transform: scaleY(1);
+  }
+}
+
+.data-sonner-toast {
+  transform: translateY(-10px) scale(0.97);
+  opacity: 0;
+  animation: sonner-in 220ms ease-out forwards;
+}
+
+@keyframes sonner-in {
+  from {
+    transform: translateY(-10px) scale(0.97);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0px) scale(1);
+    opacity: 1;
+  }
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+  background-color: red;
+   @apply bg-[#F9FAFB] transition-colors duration-300;
+}
+
+.dark body {
+  @apply bg-[#051424];
+}
+
+::-webkit-scrollbar {
+  width: 4px; /* ancho de la barra de desplazamiento */
+}
+
+/* Track (el área en la que se desplaza el scroll) */
+::-webkit-scrollbar-track {
+  height: 1px;
+  background: #fff !; /* color de fondo de la pista */
+}
+
+/* Thumb (el agarre en la barra de desplazamiento) */
+::-webkit-scrollbar-thumb {
+  /* background:var(--strokes-separator-separator-light) !important; color del agarre */
+  background: transparent !important; /* color del agarre */
+  border-radius: 5px; /* bordes redondeados del agarre */
+}

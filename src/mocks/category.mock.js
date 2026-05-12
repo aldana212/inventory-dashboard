@@ -1,0 +1,42 @@
+export const categoryMock = [
+  {
+    id: "cat-001",
+    name: "Electrónica",
+    code: "electronics",
+    description: "Dispositivos electrónicos y tecnología",
+    status: "active",
+    stockItems: 3,
+  },
+  {
+    id: "cat-002",
+    name: "Ropa",
+    code: "clothing",
+    description: "Prendas de vestir y accesorios",
+    status: "active",
+    stockItems: 2,
+  },
+  {
+    id: "cat-003",
+    name: "Alimentos",
+    code: "food",
+    description: "Productos de consumo alimenticio",
+    status: "active",
+    stockItems: 4,
+  },
+  {
+    id: "cat-004",
+    name: "Hogar",
+    code: "home",
+    description: "Artículos para el hogar y decoración",
+    status: "inactive",
+    stockItems: 1,
+  },
+  {
+    id: "cat-005",
+    name: "Herramientas",
+    code: "tools",
+    description: "Equipos y herramientas de trabajo",
+    status: "active",
+    stockItems: 2,
+  },
+];

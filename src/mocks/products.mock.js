@@ -1,0 +1,66 @@
+export const mockProducts = [
+  {
+    id: "9573e597-9428-4f6b-bfa7-7c54630883b0",
+    name: "Laptop HP Pavilion",
+    description:
+      "Laptop de alto rendimiento con procesador Intel i7, 16GB RAM y 512GB SSD.",
+    categoryId: "cat-001",
+    supplierId: "prov-001",
+    sku: "HP-LAP-001",
+    price: 3200,
+    stock: 45,
+  },
+  {
+    id: "d743a7fe-bdf6-4d52-8fb1-d7b8f68a1fce",
+    name: "Mouse Logitech G203",
+    description: "Mouse gamer con iluminación RGB y sensor de alta precisión.",
+    categoryId: "cat-001",
+    supplierId: "prov-001",
+    sku: "LOG-MOU-005",
+    price: 120,
+    stock: 5,
+  },
+  {
+    id: "b111cd7b-2d95-4347-a944-61cee5950145",
+    name: "Teclado Mecánico Redragon",
+    description:
+      "Teclado mecánico con switches rojos, retroiluminación RGB.",
+    categoryId: "cat-001",
+    supplierId: "prov-001",
+    sku: "RED-KEY-003",
+    price: 250,
+    stock: 2,
+  },
+  {
+    id: "5f4870df-8d7c-4619-a9e0-c1b5951801be",
+    name: "Monitor Samsung 24''",
+    description: "Monitor Full HD de 24 pulgadas con panel IPS.",
+    categoryId: "cat-001",
+    supplierId: "prov-001",
+    sku: "SAM-MON-004",
+    price: 900,
+    stock: 0,
+  },
+  {
+    id: "959c69d8-69a0-4f80-bca9-f8dce18344f2",
+    name: "Audífonos HyperX Cloud",
+    description:
+      "Audífonos gamer con sonido envolvente y micrófono desmontable.",
+    categoryId: "cat-001",
+    supplierId: "prov-004",
+    sku: "HYP-AUD-005",
+    price: 350,
+    stock: 40,
+  },
+  {
+    id: "323277cb-45be-4a22-ab4c-053f14e6813b",
+    name: "Silla Gamer Cougar",
+    description:
+      "Silla ergonómica con soporte lumbar y reclinación ajustable.",
+    categoryId: "cat-004",
+    supplierId: "prov-004",
+    sku: "COU-CHA-006",
+    price: 1200,
+    stock: 12,
+  },
+];
